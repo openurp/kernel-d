@@ -1,0 +1,9 @@
+{
+	"name": "openurp-kernal",
+	"description": "OpenURP Kernal",
+	"copyright": "Copyright © 2014, OpenURP",
+	"authors": ["chaostone"],
+	"dependencies": {
+		"beangle-commons": ">=0.0.1"
+	}
+}
